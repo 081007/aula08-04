@@ -1,0 +1,100 @@
+.salmao{
+    display: inline-flex;
+    justify-content: flex-start;
+    gap: 5px;
+    flex-wrap: wrap;
+
+}
+
+
+.CAIXA1{
+    
+    background-color: salmon;
+    width: 1550px;
+    height: 200px;
+    gap: 50px;
+}
+
+.CAIXA2{
+  
+    background-color: salmon;
+    width: 900px;
+    height: 200px;
+    gap: 50px;
+   
+}
+
+
+  
+.divpai{
+    gap: 20px;
+    display: flex;
+    padding-top: 10px;
+    
+  
+}
+.divpai.paimeio{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.divpai .CAIXA3{
+    background-color: rgb(233, 219, 94);
+    width: 1150px;
+    height: 1000px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+
+
+.CAIXA4{
+    background-color: rgb(217, 153, 236);
+    width: 1800px;
+    height: 500px;
+    display: inline-block;
+}
+
+.CAIXA4{
+    background-color:  rgb(217, 153, 236);
+    width: 1800px;
+    height: 500px;
+    display: inline-block;
+}
+.azul{
+    
+    gap: 50px;
+    display: inline-block;
+    justify-content: center ;
+    flex-direction: column;
+
+
+
+}
+#CAIXA6{
+    background-color: rgb(104, 120, 189);
+    width: 800px;
+    height: 200px;
+    gap: 50px;
+    display: inline-block;
+    justify-content: left;
+    margin-top: 10px;
+}
+
+#CAIXA7{
+    background-color: rgb(104, 120, 189);
+    width: 800px;
+    height: 200px;
+    gap: 50px;
+    display: inline-block;
+    justify-content: center;
+}
+
+#CAIXA8{
+    background-color:  rgb(104, 120, 189);
+    width: 800px;
+    height: 200px;
+    gap: 50px;
+    display: inline-block;
+    justify-content: right;
+}

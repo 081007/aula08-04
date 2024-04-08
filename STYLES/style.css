@@ -1,0 +1,82 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+     
+    header{
+        height: 100px;
+        background-color: #fdbfdd;
+        padding: 30px;
+        color:rgb(255, 255, 255);
+        font-size: 35px;
+        margin:20px 10px; 
+        border: 3px dashed;
+    }
+    .menu{
+        display: flex;
+        color: white;
+    }
+    .menu ul{
+        display: flex;
+        list-style: none;
+        gap: 10px;
+        justify-content: space-around;
+        color: white;
+        
+    }
+    #nomeloja{
+        text-align: center;
+        font-size:48px ;
+        margin-bottom: 10px;
+
+        
+    }
+
+    h1{
+        text-align: center;
+    }
+    
+    main{
+        height: 700px;
+        background-color: #dbdada;
+        margin: 10px;
+    img{
+        width: 600px;
+        height: 600px;
+    }
+    #pmain{
+        color: rgb(0, 0, 0);
+        width: 800px;
+        height: 300px;
+       font-weight: 400px;
+       font-size: 30px;
+       margin-top: 70px;
+    }
+
+     
+     #secprincipal{
+        display: flex;
+        justify-content: inherit;
+        gap: 40px;
+     }   
+     #sec1{
+        display: flex;
+        justify-content: end;
+     }
+     #secsecondary{
+        background-color: #fdbfdd;
+       
+        
+        
+     }
+
+    }
+    footer{
+        height: 200px;
+        background-color: rgb(240, 239, 239); 
+        margin-top: 50px;
+     }
+    #pfooter{
+        margin-top: 50px;
+    }

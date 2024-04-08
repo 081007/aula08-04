@@ -1,0 +1,47 @@
+.header{
+    display: inline-flex;
+    background-color: cadetblue;
+    justify-content: flex-start;
+    gap: 5px;
+    flex-wrap: wrap; 
+
+}
+.caixa1{
+    width: 2570px;
+    height: 200px;
+    display: inline-block;
+    gap: 50px;
+    color: cadetblue;
+    border: 10px;
+}
+ .meio{
+    display: flex;
+    justify-content: initial;
+    gap: 20px;  
+ }
+
+ .caixa2{
+   background-color: aqua;
+    width: 700px;
+    height: 1000px;
+    gap: 20px; 
+    border: 10px;
+ }
+ .caixa3{
+    background-color: aquamarine;
+    width: 1100px;
+    height: 1000px ;
+    border: 10px;
+ }
+ .caixa4{
+   background-color: brown;
+   width: 600px;
+   height: 1000px ;
+   border-bottom:  10px;
+ }
+ #caixa5{
+    width: 2570px ;
+    height:200px;
+    background-color: cadetblue;
+    border:  10px;
+ }

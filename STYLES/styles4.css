@@ -1,0 +1,65 @@
+.cimaazul{
+    display: inline-flex;
+    justify-content: flex-start;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+
+
+.CAIXA1{
+    background-color: cadetblue;
+    width: 2570px;
+    height: 200px;
+    display: inline-block;
+    gap: 50px;
+    border: 10px;
+}
+
+.meio{
+    display: flex;
+    justify-content: initial;
+    gap: 20px;   
+
+}
+.CAIXA2{
+    background-color: rgb(233, 111, 98);
+    width: 1800px;
+    height: 730px;
+    border: 10px;
+   
+}
+.meio.paimeio{
+    display: inline-block;
+    gap: 20px;
+}
+.CAIXA3{
+    background-color:rgb(83, 180, 83);
+    width: 1750px;
+    height: 200px;
+    display: inline-block;
+    border: 10px;
+}
+.CAIXA4{
+    background-color: rgb(243, 243, 119);
+    width: 1750px;
+    height: 200px;
+    display: inline-block;
+    border: 10px;
+    
+}
+
+.CAIXA5{
+    background-color: rgb(121, 121, 224);
+    width: 870px;
+    height: 300px;
+    display: inline-block;
+   
+}
+.CAIXA6{
+    background-color: rgb(131, 95, 160);
+    width: 870px;
+    height: 300px;
+    display: inline-block;
+  
+}

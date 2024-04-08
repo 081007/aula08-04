@@ -1,0 +1,70 @@
+.header{
+    display: inline-flex;
+    justify-content: flex-start;
+    gap: 5px;
+    flex-wrap: wrap; 
+
+}
+.caixa1{
+    width: 2570px;
+    height: 200px;
+    display: inline-block;
+    gap: 50px;
+    background-color: rgb(150, 238, 219);
+    border: 20px;
+}
+.meio{
+    gap: 20px;
+    display: flex;
+    padding-top: 10px;
+
+
+
+}
+.meiofilho{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.caixa2{
+    background-color: rgb(120, 243, 89);
+    width: 900px;
+    height: 1000px;
+    display: inline-block;
+    gap: 50px;
+    border: 20px;
+
+
+}
+
+
+
+
+.caixa3{
+    background-color: rgb(243, 163, 89);
+    width: 1660px;
+    height: 1000px;
+    display: inline-block;
+    gap: 50px;
+    border: 20px;
+
+
+
+}
+.caixa4{
+    width: 2570px;
+    height: 200px;
+    display: inline-block;
+    gap: 50px;
+    background-color: rgb(150, 238, 219);
+    border: 20px;
+}
+
+.img{
+    margin: 40px;
+    display: flex;
+    gap: 20px;
+    border: 10px;
+
+
+}
