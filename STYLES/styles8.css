@@ -1,0 +1,42 @@
+.pai{
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px;
+    gap: 5px;
+    justify-content: center;
+    
+}
+
+
+
+
+
+
+
+.filho{
+   
+    background-color: brown;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+}
+.filho2{
+    
+    background-color: firebrick;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    flex-direction: column;
+}
+.filho3{
+    
+    background-color: darkred;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    flex-direction: column;
+}

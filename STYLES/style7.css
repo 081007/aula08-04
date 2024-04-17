@@ -1,0 +1,11 @@
+.header{
+    background-color: maroon;
+    width: 2850px;
+    height: 200px;
+    border: solid black 6px;
+    gap: 5px;
+    display: flex;
+    font-size: 20px;
+
+
+}
