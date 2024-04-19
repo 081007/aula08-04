@@ -1,0 +1,39 @@
+body{
+    height: 150vh;
+}
+
+
+.container{
+    display: flex;
+    gap: 10px;
+    position: fixed;
+    border: 2px solid black;
+    height: 130px;
+    position: relative;
+}
+.box{
+    width: 100px;
+    height: 80px;
+    
+
+}
+
+
+.item1{
+    background-color: black ;
+    position: absolute;
+   
+}
+.item2{
+    background-color: brown ;
+    
+    position: relative;
+    left: 10px;
+   
+}
+.item3{
+    background-color: darkred ;
+ 
+    position: relative;
+    right: 80px;;
+}

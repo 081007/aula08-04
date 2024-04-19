@@ -1,0 +1,227 @@
+.titulo{
+    color: rgb(118, 167, 118);
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+
+}
+.logo{
+
+
+}
+.menu{
+    background-color: rgb(26, 80, 26);
+    width:1840px ;
+    height: 290px ;
+    border: 5px solid black;
+   
+}
+
+
+.menu ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    justify-content: space-around;
+    color: white;
+    
+}
+body{
+    background-color: darkolivegreen;
+    padding: 10px;
+    width: 1850px;
+    height: 2200px;
+    border: dashed black 5px;
+
+
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 20px;
+
+
+}
+
+
+.lorem{
+    font-size: 10px;
+
+
+}
+
+.imagem{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    
+   }
+.img2{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+    
+
+}
+.lorem1{
+    font-size: 10px;
+    
+
+}
+.img3{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+    
+
+}
+.lorem2{
+    font-size: 10px;
+    
+
+}
+
+.img4{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+    
+
+}
+.lorem3{
+    font-size: 10px;
+    
+}
+
+.imagem2{
+    display: flex;
+    position: relative;
+   justify-content: space-between;
+   }
+
+.img5{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+    
+
+}
+.lorem4{
+    font-size: 10px;
+    
+}
+.img6{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+  
+    
+
+}
+.lorem5{
+    font-size: 10px;
+    
+}
+
+.img7{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+  
+    
+
+}
+.lorem6{
+    font-size: 10px;
+    
+}
+.imagem3{
+    display: flex;
+    position: relative;
+   justify-content: space-between;
+   }
+
+.img8{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+  
+    
+
+}
+.lorem7{
+    font-size: 10px;
+    
+}
+
+.img9{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+  
+    
+
+}
+.lorem8{
+    font-size: 10px;
+    
+}
+
+.img10{
+    display: flex;
+    padding-bottom: 10px;
+    position: relative;
+    left: 20px;
+  
+  
+    
+
+}
+.lorem9{
+    font-size: 10px;
+    
+}
+
+
+footer{
+    background-color: rgb(26, 80, 26);
+    width:1850px ;
+    height: 250px 
+    
+
+}
+.p{
+    display: flex; 
+}
+.p1{
+    
+    display: flex;
+    
+}
+.p2{
+    
+    display: flex;
+    
+}
+.p3{
+    
+    display: flex;
+    
+}
