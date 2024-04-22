@@ -1,6 +1,6 @@
 .header{
     background-color: maroon;
-    width: 2850px;
+    width: 1890px;
     height: 200px;
     border: solid black 6px;
     gap: 5px;
@@ -9,3 +9,46 @@
 
 
 }
+
+.meio{
+    display: flex;
+    padding: 10px;
+    display: inline-block;
+
+}
+.box2{
+    background-color: bisque;
+    width: 900px;
+    height: 600px;
+}
+
+.meiofilho{
+    display: flex;
+    padding: 20px;
+
+
+}
+
+.box3{
+
+    background-color: brown;
+    width: 1000px;
+    height: 200px;
+    display: block;
+
+
+
+
+}
+.box4{
+
+    background-color: brown;
+    width: 1000px;
+    height: 200px;
+    display: block;
+
+
+
+
+}
+

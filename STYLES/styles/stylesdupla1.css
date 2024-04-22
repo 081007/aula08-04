@@ -5,10 +5,7 @@
     justify-content: center;
 
 }
-.logo{
 
-
-}
 .menu{
     background-color: rgb(26, 80, 26);
     width:1840px ;
@@ -27,7 +24,7 @@
     
 }
 body{
-    background-color: darkolivegreen;
+    background-color: rgb(255, 255, 255);
     padding: 10px;
     width: 1850px;
     height: 2200px;

@@ -1,0 +1,45 @@
+.titulo{
+    color: rgb(118, 167, 118);
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+
+}
+
+.menu{
+    background-color: rgb(26, 80, 26);
+    width:1840px ;
+    height: 290px ;
+    border: 5px solid black;
+   
+}
+
+
+.menu ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    justify-content: space-around;
+    color: white;
+    
+}
+
+
+.p{
+    display: flex; 
+}
+.p1{
+    
+    display: flex;
+    
+}
+.p2{
+    
+    display: flex;
+    
+}
+.p3{
+    
+    display: flex;
+    
+}
